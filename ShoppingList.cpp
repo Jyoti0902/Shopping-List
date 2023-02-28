@@ -9,7 +9,7 @@ class ShoppingList
     int qty[5]= {0,0,0,0,0};
     int priceEachItem[5]={10,5,15,20};
     int itemCount=4, totalCost=0;
-    char foodItem[5][100]={"Pizza ", "Paneer Tikka ", "Paneer naan with gravy ", "paneer burger "};
+    char foodItem[5][100]={"roll ", "Paneer Tikka ", "Paneer naan with gravy ", "paneer burger "};
 
     public:
     void AddItem();
